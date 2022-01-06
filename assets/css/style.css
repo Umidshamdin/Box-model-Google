@@ -1,0 +1,26 @@
+*{
+    margin-top: 18px;
+    padding: 0;
+}
+
+.test{
+    border-left: 5px solid sienna;
+    border-right: 5px solid sienna;
+    border-top: 5px;
+    background-color:teal;
+    text-align: center;
+    justify-content: center;
+    border-top-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+    width: 200px;
+    height: 100px;
+    margin-left: 600px;
+    margin-top: 300px;  
+}
+.test h1{
+    color: snow;
+    font-size: 3em;
+}
+
+
+
